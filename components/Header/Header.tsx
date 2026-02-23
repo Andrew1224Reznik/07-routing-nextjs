@@ -13,7 +13,7 @@ export default function Header() {
       <nav aria-label="Main Navigation">
         <ul className={css.navigation}>
           <li>
-            <Link href="/notes/filter/all">Нотатки</Link>
+            <Link href="/notes/filter/all">Notes</Link>
           </li>
 
           <li>
